@@ -1,5 +1,5 @@
-README - Double A
-Written in C++ by Double A Group Ahmed_Abdalraouf & Ahmed_Walid).
+README - Ahmed&Ahmed
+Written in C++ by Ahmed&Ahmed Group (Ahmed_Abdalraouf & Ahmed_Walid).
 This file is NOT a full cover for the code but a simplification of the main highlights of it.
 
 purposes & Control:
