@@ -1,6 +1,6 @@
 README - Ahmed&Ahmed
 Written in C++ by Ahmed&Ahmed Group (Ahmed_Abdalraouf & Ahmed_Walid).
-This file is NOT a full cover for the code but a simplification of the main highlights of it.
+This file is NOT a full cover for the code but rather a simplification of main highlights.
 
 purposes & Control:
 This game is a simple console-based snake game written as a part of the second-year Object-Oriented Programming Final project.
@@ -15,7 +15,7 @@ source Code:-
 The game consists of two files: test.cpp which includes the main & HEADERS.h which contains three classes Food, Snake & Game, & a defined type Point.
 
 1-HEADERS.h:-
-1.1 Global variables ("bool Stop", "int Density", "int Score").
+1.1 Global variables 1-bool Stop, 2-int Density, 3-int Score.
 
 1.2 Point type:
 Point Type is a type defined by struct in order to identify points inside the grid of the game more conveniently. Each point variable created has two attributes:
@@ -29,7 +29,7 @@ It's a simple class that is designed to generate random food positions in differ
 2- setter and getter functions to set and return new positions to other parts of the code.
 
 1.4 Snake Class:-
-This class is the most important class in the game. It consists of:
+This class is considered to be the most important class, containts:
 
 1.4.1 Points vector "body", which is the main vector to store the positions of all the points that are part of the Snake body.
 1.4.2 Default defined constructor with two integer parameters to push them in the vector "body" in order to be the first part of the snake's segments.
