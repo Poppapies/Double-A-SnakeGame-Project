@@ -20,7 +20,7 @@ The game consists of two files: test.cpp which includes the main & HEADERS.h whi
 1.2 Point type:
 Point Type is a type defined by struct in order to identify points inside the grid of the game more conveniently. Each point variable created has two attributes:
 1- integers x, y to contain the location of the variable point.
-2- A boolean override to the "==" operator in the type to make comparison between the points easier.
+2- A boolean overloading to the "==" operator to make comparison between the points more convenient.
 The user-defined constructor in Point has two integer parameters to initialize the values of x, y.
 
 1.3 Food Class:-
