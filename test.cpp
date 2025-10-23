@@ -24,6 +24,7 @@ int main() {
         std::cout << "\nGAMEOVER\n";
         Score = 0;
     }
-        return 1;
+        return 0;
     
 }
+
